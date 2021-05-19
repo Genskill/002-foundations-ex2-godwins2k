@@ -24,9 +24,7 @@ break;
           printf("\n");
 }
 break;
-	  default: 
-         	 printf("Invalid Entry");
-		  break;
+
 		  
   }
 }
